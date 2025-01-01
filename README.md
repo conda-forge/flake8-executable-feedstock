@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/flake8-executab
 
 Home: https://github.com/xuhdev/flake8-executable
 
-Package license: LGPL-3.0 AND GPL-3.0
+Package license: LGPL-3.0-or-later AND GPL-3.0-or-later
 
 Summary: A Flake8 plugin for checking executable permissions and shebangs.
 
